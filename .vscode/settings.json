@@ -11,6 +11,10 @@
           "commands": ["cd apps && cd app1 && clear"]
         },
         {
+          "name": "app2",
+          "commands": ["cd apps && cd app2 && clear"]
+        },
+        {
           "name": "shared",
           "commands": ["cd packages && cd shared && clear"]
         }
